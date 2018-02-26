@@ -8,5 +8,5 @@ jej
   EVO TLE ZACNI
   
   
-  0.1 <BETA>
-  tle napis kaj si kej dodau pol pa ta msg deliti
+  0.2 <BETA>
+  tle napis kaj si kej dodau pol pa ta msg deliti ok ;)
